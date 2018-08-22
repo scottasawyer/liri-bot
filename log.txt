@@ -1,0 +1,46 @@
+
+ ---SPOTIFY INFO--- 
+ Command: "spotify-this-search" 
+            
+ Song Title: Hurt Me 
+ Artist Name: Juice WRLD 
+            
+ Preview Url: null 
+ Album Name: Goodbye & Good Riddance 
+ -------------------
+ ---SPOTIFY INFO--- 
+ Command: "spotify-this-search" 
+            
+ Song Title: I Want It That Way 
+ Artist Name: Backstreet Boys 
+            
+ Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=b7bb4f508a4743108ee11dec3cf8a609 
+ Album Name: The Hits--Chapter One 
+ -------------------
+ ---SPOTIFY INFO--- 
+ Command: "spotify-this-search" 
+            
+ Song Title: I Want It That Way 
+ Artist Name: Backstreet Boys 
+            
+ Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=b7bb4f508a4743108ee11dec3cf8a609 
+ Album Name: The Hits--Chapter One 
+ -------------------
+ ---SPOTIFY INFO--- 
+ Command: "spotify-this-search" 
+            
+ Song Title: Hurt Me 
+ Artist Name: Juice WRLD 
+            
+ Preview Url: null 
+ Album Name: Goodbye & Good Riddance 
+ -------------------
+ ---SPOTIFY INFO--- 
+ Command: "spotify-this-search" 
+            
+ Song Title: I Want It That Way 
+ Artist Name: Backstreet Boys 
+            
+ Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=b7bb4f508a4743108ee11dec3cf8a609 
+ Album Name: The Hits--Chapter One 
+ -------------------
