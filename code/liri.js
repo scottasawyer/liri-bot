@@ -6,13 +6,12 @@ const Spotify = require("node-spotify-api"),
     searchTweets = require("./twitter.js"),
     keys = require("./keys"),
     request = require("request"),
-    fs = require("fs"), // gets called in all functions to append log.txt
+    fs = require("fs"), 
     songSearch = require("./spotify.js"),
     movieSearch = require("./omdb.js"),
     doWhat = require("./dowhatever.js");
 
 let cmd = process.argv[2], arg = process.argv[3];
-
 
 const checkCom = (cmd, arg) => {
     switch (cmd) {
