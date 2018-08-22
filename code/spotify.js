@@ -1,7 +1,7 @@
 require("dotenv").config();
 const Spotify = require("node-spotify-api"),
-    keys = require("./keys");
-const spotify = new Spotify(keys.spotify);
+    keys = require("./keys"),
+    spotify = new Spotify(keys.spotify);
 fs = require("fs");
 
 const songSearch = (cmd, songTitle) => {

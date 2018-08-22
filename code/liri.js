@@ -3,13 +3,13 @@ const Spotify = require("node-spotify-api"),
     spotify = new Spotify(keys.spotify),
     Twitter = require("twitter"),
     client = new Twitter(keys.twitter),
-    searchTweets = require("./twit.js"),
+    searchTweets = require("./twitter.js"),
     keys = require("./keys"),
     request = require("request"),
     fs = require("fs"), // gets called in all functions to append log.txt
     songSearch = require("./spotify.js"),
     movieSearch = require("./omdb.js"),
-    doWhat = require("./dowhat.js");
+    doWhat = require("./dowhatever.js");
 
 let cmd = process.argv[2], arg = process.argv[3];
 
